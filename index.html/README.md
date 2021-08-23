@@ -15,3 +15,4 @@
 
 ---
 포트폴리오(http://khy4018.dothome.co.kr/portfolio)
+* [X] 해당 정보를 공용 개발 하시겠습니까?
