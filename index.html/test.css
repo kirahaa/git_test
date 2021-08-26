@@ -1,0 +1,114 @@
+.Screen {
+  width: 1680px;
+  height: 1536px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  padding: 120px 0 0;
+  background-color: #fff;
+}
+
+.Snap-photos-and-share-like-never-before {
+  width: 750px;
+  height: 144px;
+  margin: 0 277px 70px 80px;
+  font-family: Exo2;
+  font-size: 48px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: -0.72px;
+  text-align: left;
+  color: #000;
+}
+
+.Group {
+  width: 493px;
+  height: 352px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+
+.Group-2 {
+  width: 494px;
+  height: 352px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+
+.Group-3 {
+  width: 493px;
+  height: 352px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+}
+
+img.Ellipse {
+  width: 108px;
+  height: 108px;
+  margin: 70px 405px 354px 80px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.Sed-ut-perspiciatis {
+  display: block;
+  width: 493px;
+  height: 36px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  margin: 40px 0 24px;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: -0.36px;
+  text-align: left;
+  color: #000;
+}
+
+.Nemo-enim-ipsam-voluptatem-quia-voluptas-sit-aspernatur-aut-odit-aut-fugit-sed-quia-consequuntur-ma {
+  display: block;
+  width: 493px;
+  height: 90px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  margin: 24px 0;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: -0.27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.Learn-more {
+  display: block;
+  width: 493px;
+  height: 30px;
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  margin: 24px 0 0;
+  font-family: Exo2;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: -0.27px;
+  text-align: left;
+  color: #18a0fb;
+}
+/*# sourceMappingURL=test.css.map */
