@@ -12,6 +12,11 @@
     <script>
         console.log(globalThis === this);
         console.log(this === window);
+        var foo = 1;
+        console.log(window.foo);
+
+        let bar = 10;
+        console.log(window.bar);
     </script>
 </body>
 </html>
